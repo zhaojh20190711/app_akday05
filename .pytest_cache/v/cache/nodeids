@@ -1,0 +1,4 @@
+[
+  "script/test_login.py::TestLogin::()::test_login_phone[13800001111-123456]",
+  "script/test_login.py::TestLogin::()::test_login_phone[13800001112-123457]"
+]

@@ -1,0 +1,4 @@
+{
+  "script/test_login.py::TestLogin::test_login": true,
+  "script/test_login.py::TestLogin::test_login_phone": true
+}
